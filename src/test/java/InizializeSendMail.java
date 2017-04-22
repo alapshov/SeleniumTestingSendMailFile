@@ -65,7 +65,7 @@ public class InizializeSendMail {
     public Boolean FindAndClickSendMail(InitializeAndQuitChromeDriver iaqc)
     {
         try {
-            Thread.sleep(2000);
+            Thread.sleep(1000);
             el = iaqc.wd.findElement(By.cssSelector("#b-toolbar__right > div:nth-child(3) > div > div:nth-child(2) > div.b-toolbar__item.b-toolbar__item_.b-toolbar__item_false"));
             el.click();
         }
