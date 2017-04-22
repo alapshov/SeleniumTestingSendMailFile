@@ -9,10 +9,10 @@ public class InitializeLoginPage
 {
     WebElement el;
 /**Поиск поля для ввода логина**/
-    public Boolean FindElementFieldLogin(InitializeAndQuitChromeDriver iaqc, String elementID, String Login)
+    public Boolean FindElementFieldLogin(InitializeAndQuitChromeDriver iaqc, String Login)
     {
         try {
-            el = iaqc.wd.findElement(By.id(elementID));
+            el = iaqc.wd.findElement(By.id("mailbox__login"));
             el.sendKeys(Login);
         }
         catch (Exception ex)
@@ -23,10 +23,10 @@ public class InitializeLoginPage
 
     }
     /**Поиск поля для ввода пароля**/
-    public Boolean FindElementFieldPassword(InitializeAndQuitChromeDriver iaqc, String elementID, String Password)
+    public Boolean FindElementFieldPassword(InitializeAndQuitChromeDriver iaqc, String Password)
     {
         try {
-            el = iaqc.wd.findElement(By.id(elementID));
+            el = iaqc.wd.findElement(By.id("mailbox__password"));
             el.sendKeys(Password);
         }
         catch (Exception ex)
@@ -36,10 +36,10 @@ public class InitializeLoginPage
         return true;
     }
     /**Поиск кнопки "Войти"**/
-    public Boolean FindElementButtonLogin(InitializeAndQuitChromeDriver iaqc, String elementID)
+    public Boolean FindElementButtonLogin(InitializeAndQuitChromeDriver iaqc)
     {
         try {
-            el = iaqc.wd.findElement(By.id(elementID));
+            el = iaqc.wd.findElement(By.id("mailbox__auth__button"));
 
         }
         catch (Exception ex)
@@ -49,10 +49,10 @@ public class InitializeLoginPage
         return true;
     }
     /**Нажатие кнопки войти**/
-    public Boolean ElementButtonLoginClick(InitializeAndQuitChromeDriver iaqc, String elementID)
+    public Boolean ElementButtonLoginClick(InitializeAndQuitChromeDriver iaqc)
     {
         try {
-            el = iaqc.wd.findElement(By.id(elementID));
+            el = iaqc.wd.findElement(By.id("mailbox__auth__button"));
             el.click();
         }
         catch (Exception ex)

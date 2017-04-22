@@ -12,7 +12,7 @@ public class LoginPageAndSendMailTest {
     InitializeLoginPage ilp;
     InizializeSendMail ism;
     boolean a;
-    @BeforeClass
+@BeforeClass
     public void SetUp()
     {
         iaqc = new InitializeAndQuitChromeDriver();
@@ -30,7 +30,7 @@ public class LoginPageAndSendMailTest {
     
     public void InitializeLoginPage_FindElementFieldLogin_Test()
     {
-        a =  ilp.FindElementFieldLogin(iaqc,"mailbox__login","tester.testov.10");
+        a =  ilp.FindElementFieldLogin(iaqc,"tester.testov.10");
         Assert.assertEquals(true,a);
 
     }
@@ -38,14 +38,14 @@ public class LoginPageAndSendMailTest {
     @Test(priority = 2)
     public void InitializeLoginPage_FindElementFieldPasswordEnterPass_Test()
     {
-        a = ilp.FindElementFieldPassword(iaqc,"mailbox__password","TeSt12345678");
+        a = ilp.FindElementFieldPassword(iaqc,"TeSt12345678");
         Assert.assertEquals(true, a);
     }
 
     @Test(priority = 3)
     public void InitializeLoginPage_FindElementButtonLogin_Test()
     {
-        a = ilp.FindElementButtonLogin(iaqc,"mailbox__auth__button");
+        a = ilp.FindElementButtonLogin(iaqc);
         Assert.assertEquals(true,a);
     }
 
@@ -53,7 +53,7 @@ public class LoginPageAndSendMailTest {
     public void InitializeLoginPage_Autorization_Test()
     {
 
-        a = ilp.ElementButtonLoginClick(iaqc,"mailbox__auth__button");
+        a = ilp.ElementButtonLoginClick(iaqc);
         Assert.assertEquals(true,a);
     }
 
