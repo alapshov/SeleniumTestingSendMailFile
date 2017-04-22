@@ -27,10 +27,23 @@
       <file leaf-file-name="LoginPageAndSendMailTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageAndSendMailTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+            <state relative-caret-position="695">
+              <caret line="90" column="35" lean-forward="false" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitializeAndQuitChromeDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/InitializeAndQuitChromeDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+              <folding>
+                <element signature="e#513#514#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +52,7 @@
       <file leaf-file-name="InitializeLoginPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/InitializeLoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
+            <state relative-caret-position="629">
               <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,8 +64,8 @@
       <file leaf-file-name="InizializeSendMail.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/InizializeSendMail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="62" column="47" lean-forward="false" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+            <state relative-caret-position="283">
+              <caret line="67" column="179" lean-forward="true" selection-start-line="67" selection-start-column="179" selection-end-line="67" selection-end-column="179" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,8 +103,8 @@
         <option value="$PROJECT_DIR$/src/test/java/LoginPageMailTest.java" />
         <option value="$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/xml/XmlClass.class" />
         <option value="$PROJECT_DIR$/src/test/java/InitializeLoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/InizializeSendMail.java" />
         <option value="$PROJECT_DIR$/src/test/java/LoginPageAndSendMailTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/InizializeSendMail.java" />
       </list>
     </option>
   </component>
@@ -572,39 +585,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 15m 38s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 43m 36s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 21m 24s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 44m 36s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 22m 13s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 49m 59s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 22m 58s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 51m 31s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 25m 13s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 52m 09s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 27m 39s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 53m 00s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 28m 14s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 54m 15s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 17h 40m 57s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 58m 04s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 18h 59m 59s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 20h 05m 05s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 19h 01m 13s.xml">
+    <history-entry file="LoginPageAndSendMailTest - 2017.04.22 at 20h 05m 50s.xml">
       <configuration name="LoginPageAndSendMailTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1684" height="1026" extended-state="1" />
+    <frame x="-8" y="-8" width="1684" height="1026" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -615,7 +628,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3231441" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3231441" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -766,17 +779,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/InitializeAndQuitChromeDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/InizializeSendMail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="62" column="47" lean-forward="false" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        <state relative-caret-position="283">
+          <caret line="67" column="179" lean-forward="true" selection-start-line="67" selection-start-column="179" selection-end-line="67" selection-end-column="179" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -785,7 +791,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/InitializeLoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
+        <state relative-caret-position="629">
           <caret line="37" column="22" lean-forward="false" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -793,10 +799,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/InitializeAndQuitChromeDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LoginPageAndSendMailTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        <state relative-caret-position="695">
+          <caret line="90" column="35" lean-forward="false" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
